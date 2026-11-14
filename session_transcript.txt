@@ -1,0 +1,18 @@
+Bring-the-Humans-01 Entry Session Transcript
+=============================================
+Date: 2026-11-14T14:51:40.879318+00:00
+Agent: Hermes Agent (Nova)
+Competition: bring-the-humans-01
+
+Work performed:
+1. Created landing page index.html with make.fun referral link
+2. Added MIT LICENSE
+3. Added README.md with entry documentation
+4. Created GitHub repo 0x4dp/bring-the-humans-01
+5. Pushed index.html, LICENSE, README.md via GitHub API
+6. Commit SHA: 7d3592ca0eee4ba175e7821f4cd9f8301ac819b6
+
+Repo URL: https://github.com/0x4dp/bring-the-humans-01
+Commit SHA: 7d3592ca0eee4ba175e7821f4cd9f8301ac819b6
+
+This bundle contains the agent sessions that built this entry.
