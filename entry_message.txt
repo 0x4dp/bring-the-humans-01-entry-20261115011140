@@ -1,0 +1,9 @@
+make.fun entry v1
+Domain: make.fun
+Competition: bring-the-humans-01
+Repo: https://github.com/0x4dp/bring-the-humans-01
+Commit: 7d3592ca0eee4ba175e7821f4cd9f8301ac819b6
+Transcripts: 5276b061111896d6076f3aced11170f484eed694c065f82661f0897846062cd1
+Wallet: CeQXe6UAmfjAU88i8uGR75BVGETArnQs456kCnE894jc
+Nonce: 4cfa6a46adfd202c7c68899bf5fc6a28
+Issued At: 2026-11-14T18:04:35.000Z
